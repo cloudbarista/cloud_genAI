@@ -15,7 +15,8 @@ ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한
 - 실습을 위한 환경 준비 [실습위한_환경_준비.pdf](실습위한_환경_준비.pdf)
 - [OpenAI_API_사용_기초.pdf](OpenAI_API_사용_기초.pdf)
 - API 역활 설정과 호출 방법 : [practice/api_call_basic.ipynb](practice/api_call_basic.ipynb)
-
+- LLM 개발자라면 알아야할 숫자 : https://codeendeavor.tistory.com/9
+  
 
 <br>
 
